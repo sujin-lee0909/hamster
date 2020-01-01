@@ -1,5 +1,5 @@
 # Flying Hamster
-Flying hamster game with java.
+Flying hamster game with java and this project was undertaken in 2017.
 I motivated this project from chrome's dinosaur game which appear when network is missed.
 There are three characters, hamster, rock and ghost.
 This game is end when haster is touched with rock or ghost.
